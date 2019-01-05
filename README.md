@@ -1,2 +1,2 @@
 # hello-world
-first git project
+first git project - readme edits!
